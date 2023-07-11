@@ -130,6 +130,6 @@ class Api {
   }
 }
 // Замените на адрес вашего бэкенда
-const api = new Api("http://api.mstbash.nomoredomains.work");
+const api = new Api("https://api.mstbash.nomoredomains.work");
 
 export default api;
